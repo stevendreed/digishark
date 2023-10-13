@@ -1,0 +1,16 @@
+
+# .gitignore
+# this file specifies file types that should not be pushed to
+# the remote repo
+# see https://git-scm.com/docs/gitignore
+
+.DS_Store
+.idea
+Thumbs.db
+
+# ignore compiled code
+*.o
+*.pyc
+*.class
+*.log
+TESTING.html

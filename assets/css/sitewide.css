@@ -1,0 +1,20 @@
+:root {
+    --primary: #CCCC88;
+    --secondary: #D1D1D1;
+    --accent: #EE420B;
+    --light: hsl(0, 0%, 100%);
+    --dark: #000000;
+}
+
+body {
+    background-color: rgba(86,81,126,255);
+}
+
+nav {
+    background-color: var(--dark);
+}
+
+.mb-3 {
+    display: flex;
+    align-items: center;
+}
